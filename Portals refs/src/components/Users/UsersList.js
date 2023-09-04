@@ -14,7 +14,7 @@ const UsersList = (props) => {
         ))}
       </ul>
     </Card>
-  );
+  )
 };
 
 export default UsersList;
